@@ -69,7 +69,7 @@
     "@angular/platform-server": "18.2.0-next.0",
     "@angular/router": "18.2.0-next.0",
     "@angular/service-worker": "18.2.0-next.0",
-    "@babel/core": "7.24.8",
+    "@babel/core": "7.26.10",
     "@babel/generator": "7.24.8",
     "@babel/helper-annotate-as-pure": "7.24.7",
     "@babel/helper-split-export-declaration": "7.24.7",
