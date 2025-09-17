@@ -66,7 +66,7 @@
     "@angular/ng-dev": "https://github.com/angular/dev-infra-private-ng-dev-builds.git#9884c913ae31e81ab2c869f0f1123136055d3424",
     "@angular/platform-browser": "18.2.0-next.0",
     "@angular/platform-browser-dynamic": "18.2.0-next.0",
-    "@angular/platform-server": "18.2.0-next.0",
+    "@angular/platform-server": "18.2.14",
     "@angular/router": "18.2.0-next.0",
     "@angular/service-worker": "18.2.0-next.0",
     "@babel/core": "7.24.8",
